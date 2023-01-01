@@ -1,7 +1,7 @@
 # misc_struct_subunits
 Detection of structural subunits in PDB files (plugin for PyMOL)
 
-![GUI](https://github.com/xbendl/misc_struct_subunits/blob/main/fig.png)
+![GUI](https://github.com/xbendl/misc_struct_subunits/blob/main/figx.png)
 
 Installation and configuration
 ==============================
