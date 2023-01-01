@@ -1,0 +1,20 @@
+===============================================================================
+Projekt PBI: Detekce strukturnich celku v proteinovych strukturach (varianta B)
+-------------------------------------------------------------------------------
+Autor: Jaroslav Bendl
+E-mail: xbendl00@stud.fit.vutbr.cz
+===============================================================================
+
+SPUSTENI A KONFIGURACE PROGRAMU
+-------------------------------
+- Program se spouti v prostredi aplikace Pymol zadanim prikazu "run project.py".
+  V okne programu se zobrazi urceny protein s vyznacenymi strukturnimi celky,
+  textove vysledky jsou ulozeny do umisteni podle konfiguracniho souboru
+- Konfigurace programu se provadi v souboru configuration.txt (format podrobne
+  popsan v dokumentaci)
+
+
+POZADAVKY PROGRAMU
+------------------
+- Jazyk Python
+- Program Pymol
